@@ -1,0 +1,2 @@
+# Blank Templates
+codespaces-blank
